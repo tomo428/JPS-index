@@ -32,6 +32,5 @@ countB++;
 
 <p><%out.println(Math.random()); %></p>
 <p><%=Math.random() %></p>
-
 </body>
 </html>
